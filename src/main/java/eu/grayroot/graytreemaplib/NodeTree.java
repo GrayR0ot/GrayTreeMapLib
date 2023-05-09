@@ -2,7 +2,7 @@ package eu.grayroot.graytreemaplib;
 
 import java.util.Arrays;
 
-public abstract class NodeTree {
+public class NodeTree {
 
     private String id;
     private NodeTree rightNode;

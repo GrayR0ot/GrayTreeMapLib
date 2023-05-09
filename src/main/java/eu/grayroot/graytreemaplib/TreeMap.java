@@ -2,7 +2,7 @@ package eu.grayroot.graytreemaplib;
 
 import java.util.HashMap;
 
-public abstract class TreeMap {
+public class TreeMap {
 
     private HashMap<String, NodeTree> treeMaps;
 
